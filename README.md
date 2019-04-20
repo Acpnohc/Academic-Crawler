@@ -1,11 +1,11 @@
 # Academic-Crawler
 Some academic crawler which is coded for girls
 
-Sometimes there are some girls ask you to write an crawler to sort out the paper or something others.
+Sometimes there are some girls ask you to write a crawler to sort out the paper or something others.
 
-This Repo consits some crawler code I write for them.
+This Repo consists of some crawler code I write for them.
 
-Is there an Repo for boys? Write by yourself. (HaHaHa)
+Is there a Repo for boys? Write by yourself.  (HaHaHa)
 
 
 对于一个万能的代码狗，怎么能拒绝女生关于整理paper等各种请求呢？
